@@ -3,7 +3,7 @@ def welcome():
 
     action = input(' Welcome      press 1 for main menu ')
     if action is "1":
-        main_menu ()
+        ()
     else:
         print('thanks for using nokia mobile')
 
