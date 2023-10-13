@@ -2,7 +2,7 @@ def my_nokia():
     print("welcome nokia mobile")
 
 
-def main_menu(option=None):
+def main_menu():
     print("""
     1-> phone_book
     2-> messages

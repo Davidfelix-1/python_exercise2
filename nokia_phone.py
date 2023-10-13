@@ -1,4 +1,4 @@
-def  nokia_mobile(function):
+def nokia_mobile(function):
     match function:
         case 1:
             return "phone book"
@@ -28,5 +28,8 @@ def  nokia_mobile(function):
             return "SIM services"
 
 
+#select = int(input("select option:    "))
+ #       if select == 1:
+  #          print()
 
 
